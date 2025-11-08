@@ -1,4 +1,3 @@
 n= 0
-print("x i me")
+print("x is")
 x=0
-print("x is y")
