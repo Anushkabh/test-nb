@@ -1,3 +1,3 @@
-
+n= 0
 print("x is me")
-nn=0
+x=0
